@@ -82,7 +82,7 @@ VocalDiagnose is making a real difference in healthcare accessibility:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sa1f27/Vocal-Diagnose.git
+git clone https://github.com/MuqeetMujeeb/Vocal-Diagnose.git
 cd vocaldiagnose
 ```
 
